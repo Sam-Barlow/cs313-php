@@ -1,0 +1,23 @@
+html {
+    background-color: lightgrey;
+}
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+    height: auto;
+    background-color: lightgrey;
+}
+
+.photo {
+    border-style: solid;
+    border: 5px;
+    border-color: black;
+    background-color: gray;
+    padding: 10px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
